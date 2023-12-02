@@ -6,4 +6,18 @@ Once you are able to run the model you can download it in .h5, unfortunately thi
 With the .h5 downloaded you can paste its corresponding path in the 'quinoa.py' code to make the predictions in real time!
 We believe that the model can be optimized, as well as its real-time embedded application. This can be improved with the addition of boxes on the screen in real time, in order to make the predictions more understandable.
 
+| Documento | Descripción|
+| ----- | -------- |
+|Quinoa_Model.ipynb| Model training|
+|ReadMe.MD| Instructions|
+|Vision_Final.pdf| Final Report|
+|link del video|txt url video |
+|quinoa.py| Real Time application|
 
+|Nombre | Contribución|
+| ----- | -------- |
+|Quinoa_Model.ipynb| Model training|
+|ReadMe.MD| Instructions|
+|Vision_Final.pdf| Final Report|
+|link del video|txt url video |
+|quinoa.py| Real Time application|
